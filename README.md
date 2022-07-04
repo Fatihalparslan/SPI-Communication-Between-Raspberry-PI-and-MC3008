@@ -70,3 +70,7 @@ sudo raspi-config
  
  Yukarıdaki fonksiyon  spi cihazını kullanıma kapatır.
  
+ Projenin Videosu :
+
+ 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CnZPyK8DHJY/0.jpg)](https://www.youtube.com/watch?v=CnZPyK8DHJY)
